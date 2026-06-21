@@ -20,6 +20,7 @@ By removing restrictions on content container widths, it optimizes your screen r
     └── storage.js      # Storage wrapper loading user configuration preferences
 ```
 
+
 ## Setup and Installation
 1. Open Google Chrome and go to chrome://extensions/.
 2. Enable Developer mode via the toggle switch in the top right corner.
