@@ -18,6 +18,7 @@ By removing restrictions on content container widths, it optimizes your screen r
 ├── manifest.json       # Manifest V3 setup mapping scripts safely to gemini.google.com
 └── lib/
     └── storage.js      # Storage wrapper loading user configuration preferences
+```
 
 ## Setup and Installation
 1. Open Google Chrome and go to chrome://extensions/.
