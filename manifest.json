@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Gemini Wide Mode",
+  "version": "1.0.0",
+  "description": "Optimized text width configuration for Google Gemini.",
+  "permissions": ["storage"],
+  "content_scripts": [
+    {
+      "matches": ["https://gemini.google.com/*"],
+      "css": ["content.css"],
+      "js": [
+        "lib/storage.js",
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+/* ============================================================
+   Gemini Wide Mode
+   ============================================================ */
+
+/* Force Gemini's chat containers to span the full text width */
+body.ga-wide-mode .msg-content-container,
+body.ga-wide-mode .conversation-container,
+body.ga-wide-mode .chat-view,
+body.ga-wide-mode main .input-area-container {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* Adjust text padding and alignment constraints for wide layout */
+body.ga-wide-mode .text-inner-wrapper {
+  max-width: 95% !important;
+  margin: 0 auto !important;
+}
