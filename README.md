@@ -22,8 +22,9 @@ By removing restrictions on content container widths, it optimizes your screen r
 
 
 ## Setup and Installation
-1. Open Google Chrome and go to chrome://extensions/.
-2. Enable Developer mode via the toggle switch in the top right corner.
-3. Click Load unpacked in the upper left corner.
-4. Select the project folder containing these extension assets.
-5. Navigate to https://gemini.google.com to view the updated full-width text container design layout.
+1. Download the extension files.
+2. Open Google Chrome and go to chrome://extensions/.
+3. Enable Developer mode via the toggle switch in the top right corner.
+4. Click Load unpacked in the upper left corner.
+5. Select the folder containing this extension.
+6. Refresh Gemini to view the updated full-width layout.
